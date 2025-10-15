@@ -1,2 +1,3 @@
 # IOT
 Practical 
+all practical 
